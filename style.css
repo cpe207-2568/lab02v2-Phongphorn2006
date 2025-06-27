@@ -1,0 +1,75 @@
+h1{
+    font-family: 'Prompts', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0 ;
+    text-align: center;
+    color: orange;
+}
+h2{
+    font-family: 'Prompts', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: orange;
+}
+
+a{
+    font-family: 'Prompts', sans-serif;
+    text-decoration: none;
+    transition: color  1s ease;
+    color: #0086ed;
+}
+
+p{
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+}
+body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background-color: rgb(216, 250, 255);
+    }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.item img {
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.font1 {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  width: 700px;
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 1rem;  
+  box-shadow: hsl(188, 86%, 74%) 0px 0px 20px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
