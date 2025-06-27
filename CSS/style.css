@@ -29,14 +29,14 @@ p{
     text-align: center;
     color: #000000;
 }
-.body {
+body {
       font-family: sans-serif;
       text-align: center;
       padding: 40px;
       background-color: rgb(216, 250, 255);
     }
 
-.img{
+img{
     display: block;
     margin-left: auto;
     margin-right: auto;
